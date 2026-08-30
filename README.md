@@ -64,7 +64,7 @@ This lab is built to reflect real enterprise environments and Infrastructure Eng
 
 ## 🔨 Deployment Workflow
 
-1. Provision Proxmox hypervisor  
+1. Oracle VirtualBox hypervisor  
 2. Deploy Windows Server 2022 VM  
 3. Configure AD DS and create `itsolutions.local` domain  
 4. Build OU structure and apply GPOs  
