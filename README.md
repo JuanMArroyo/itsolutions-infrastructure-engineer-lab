@@ -1,4 +1,5 @@
 IT Solutions – Infrastructure Engineer Lab
+
 A complete enterprise‑grade IT environment designed to simulate the real‑world responsibilities of an Infrastructure Engineer. This project demonstrates end‑to‑end management of identity, networking, security, cloud fundamentals, and operational workflows using both on‑premises and cloud technologies.
 
 This lab mirrors the daily work performed in modern IT departments and showcases the ability to design, deploy, secure, and maintain a complete business environment from scratch.
