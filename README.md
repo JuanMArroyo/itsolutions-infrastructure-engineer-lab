@@ -93,3 +93,40 @@ This environment includes:
 - **Hybrid identity:** Password hash sync via Azure AD Connect  
 - **Proxmox virtualization:** Multi‑VM enterprise environment  
 - **pfSense firewall
+
+Each folder contains documentation, configuration steps, screenshots, and diagrams.
+
+---
+
+## 🎯 Roles This Project Aligns With
+
+This lab demonstrates the practical skills required for:
+
+- Infrastructure Engineer  
+- Systems Administrator  
+- Cloud Support Associate  
+- IT Operations Technician  
+- Identity & Access Administrator  
+- Junior Cloud Engineer  
+- M365 Administrator  
+
+---
+
+## 🚀 Future Improvements
+
+Planned enhancements include:
+
+- Intune device management  
+- Azure Virtual Machines  
+- Terraform automation  
+- Docker containerization  
+- Load balancing & HAProxy  
+- Advanced SIEM dashboards  
+- Incident response playbooks  
+
+---
+
+## 📘 Purpose
+
+This project serves as a real‑world demonstration of the technical depth, architectural thinking, and operational capability required to manage enterprise IT environments.  
+It is designed to be a portfolio piece showcasing readiness for Infrastructure, Cloud, and Systems Administration roles.
